@@ -1,16 +1,15 @@
-# news_app_with_api
+Flutter News App
+A simple News application built with Flutter. The news data fetch using a Free REST API provided by NewsAPI.org.
 
-A new Flutter project.
+How to run this project
+Clone this repository using following command.
 
-## Getting Started
+git clone https://github.com/samallen-devv/News-App-with-API.git
 
-This project is a starting point for a Flutter application.
+Then navigate to the project & install the libraries using following command.
 
-A few resources to get you started if this is your first Flutter project:
+flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Go the newsapi.org REST API and create an account.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Go to the assets/.env and replace the API KEY that you created in previous step.
