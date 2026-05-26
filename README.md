@@ -1,4 +1,4 @@
-Flutter News App
+Flutter News-App
 A simple News application built with Flutter. The news data fetch using a Free REST API provided by NewsAPI.org.
 
 How to run this project
